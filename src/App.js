@@ -15,6 +15,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             Edit <code>src/App.js</code> and save to reload.
+            <!-- an ordinary text box -->
+            <input id="my-input" type="text" />
           </p>
           <a
             className="App-link"
