@@ -17,10 +17,8 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <div>
-            <label for="pass">Password (8 characters minimum):</label>
-            <input type="password" id="pass" name="password"
-                   minlength="8" required>
-           </div>
+            <label for="access"> Access Code:</label>
+            <input type="password" id="access" name="AccessCode" required>
           <a
             className="App-link"
             href="https://reactjs.org"
