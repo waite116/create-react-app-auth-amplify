@@ -16,8 +16,6 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-            <label for="access"> AccessCode:</label>
-            <input type="password" id="access" name="AccessCode" required>
           <a
             className="App-link"
             href="https://reactjs.org"
